@@ -1,6 +1,4 @@
-# omnistack_10
-
-BUSCA DEVS
+# BUSCA DEVS
 
 Projeto realizado na semana Omnistack do Rocketseat - Buscador de usuários(devs) do Github
 
